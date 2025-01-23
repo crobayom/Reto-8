@@ -24,3 +24,7 @@ if __name__=="__main__":
     x_elevado(x, a, b, c, d)
     x_elevado(x, a, b, c, d, e)
 ```
+
+
+![image](https://github.com/user-attachments/assets/bfbe9289-678f-4f87-bddc-351d28f87217)
+
